@@ -1,1 +1,1 @@
-# FingerprintSeg_with_Python
+# Fingerprint Segmentation
